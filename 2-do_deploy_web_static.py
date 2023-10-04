@@ -5,7 +5,6 @@
     def do_deploy(archive_path):
     Return False iff archive path doesn't exist
 """
-
 from fabric.api import put, run, env
 from os.path import exists
 env.hosts = ['100.26.57.237', '52.87.216.184']
