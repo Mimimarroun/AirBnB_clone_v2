@@ -15,9 +15,8 @@
     path if the archive has been correctly generated.
     Otherwise, it should return None
 """
-import os
-from datetime import datetime
-from fabric.api import local, runs_once
+import datetime
+from fabric.api import local
 from os.path import isdir
 
 
