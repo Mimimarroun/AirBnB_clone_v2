@@ -4,10 +4,6 @@
     the web_static folder of AirBnB Clone
     repo, using the function do_pack.
 
-    def do_pack():
-    All files must be added to the final archive
-    and stored in the folder "versions"
-
     The name of the archive created must be
     web_static_<year><month><day><hour><minute><second>.tgz
 
