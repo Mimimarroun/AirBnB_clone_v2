@@ -5,7 +5,7 @@
 #+ /data/web_static/current linked to
 #+ /data/web_static/releases/test/
 #+ Creates an /data/web_static/releases/test/index.html
-#+ Configures Nginx to serve /data/web_static/current/ to hbnb_static
+
 
 sudo apt-get -y update
 sudo apt-get -y upgrade
